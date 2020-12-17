@@ -1,0 +1,11 @@
+C:\Users\koshc\source\repos\Cockroach Race\bin\Debug\Cockroach Race.exe.config
+C:\Users\koshc\source\repos\Cockroach Race\bin\Debug\Cockroach Race.exe
+C:\Users\koshc\source\repos\Cockroach Race\bin\Debug\Cockroach Race.pdb
+C:\Users\koshc\source\repos\Cockroach Race\bin\Debug\Cockroach Race.xml
+C:\Users\koshc\source\repos\Cockroach Race\obj\Debug\Cockroach Race.vbprojAssemblyReference.cache
+C:\Users\koshc\source\repos\Cockroach Race\obj\Debug\Cockroach_Race.Resources.resources
+C:\Users\koshc\source\repos\Cockroach Race\obj\Debug\Cockroach Race.vbproj.GenerateResource.cache
+C:\Users\koshc\source\repos\Cockroach Race\obj\Debug\Cockroach Race.vbproj.CoreCompileInputs.cache
+C:\Users\koshc\source\repos\Cockroach Race\obj\Debug\Cockroach Race.exe
+C:\Users\koshc\source\repos\Cockroach Race\obj\Debug\Cockroach Race.xml
+C:\Users\koshc\source\repos\Cockroach Race\obj\Debug\Cockroach Race.pdb
